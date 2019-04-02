@@ -48,7 +48,7 @@ If you want an introduction to Python as a programming language before diving in
 
 - [Python Pandas Tutorial 13. Crosstab](https://www.youtube.com/watch?v=I_kUj-MfYys&list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy&index=14&t=0s)
 
-**May 9**:discussion
+**May 9**: discussion
 
 ## May 13–17
 
