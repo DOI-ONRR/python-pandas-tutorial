@@ -2,7 +2,7 @@
 
 As a group, we'll be going through a free online tutorial covering the :panda_face: Pandas library for :snake: Python.
 
-[**Pandas Tutorial (Data Analysis in Python)**](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy)
+- [**Pandas Tutorial (Data Analysis in Python)**](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy)
 
 I'll be adding excercises and sample data here for us to work with, and we'll aim to follow the schedule below.
 
