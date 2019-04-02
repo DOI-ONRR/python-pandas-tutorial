@@ -1,6 +1,6 @@
 # Python Pandas study group
 
-As a group, we'll be going through a free online tutorial covering the Pandas library for Python.
+As a group, we'll be going through a free online tutorial covering the :panda_face: Pandas library for Python.
 
 [**Pandas Tutorial (Data Analysis in Python)**](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy)
 
