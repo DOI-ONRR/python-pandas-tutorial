@@ -2,9 +2,11 @@
 
 As a group, we'll be going through a free online tutorial covering the Pandas library for Python.
 
-[Pandas Tutorial (Data Analysis in Python)](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy)
+[**Pandas Tutorial (Data Analysis in Python)**](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy)
 
 I'll be adding excercises and sample data here for us to work with, and we'll aim to follow the schedule below.
+
+If you want an introduction to Python as a programming language before diving into Pandas, I recommend DigitalGov's [Introduction to Python](https://www.youtube.com/watch?v=v8JtNRwy0cE&list=PLd9b-GuOJ3nGgxQxVIsu_JaFif3gUMFjS).
 
 ## April 15–19
 
@@ -49,3 +51,38 @@ I'll be adding excercises and sample data here for us to work with, and we'll ai
 **May 9**:discussion
 
 ## May 13–17
+
+- [Pandas Time Series Analysis Part 1: DatetimeIndex and Resample](https://www.youtube.com/watch?v=r0s4slGHwzE&list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy&index=15&t=0s)
+
+- [Pandas Time Series Analysis Part 2: date_range](https://www.youtube.com/watch?v=A9c7hGXQ5A8&list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy&index=16&t=0s)
+
+**May 16**: discussion
+
+## May 20–24
+
+- [Pandas Time Series Analysis 3: Holidays](https://www.youtube.com/watch?v=Fo0IMzfcnQE&list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy&index=17&t=0s)
+
+- [Pandas Time Series Analysis 4: to_datetime](https://www.youtube.com/watch?v=igWjq3jtLYI&list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy&index=18&t=0s)
+
+**May 23**:discussion
+
+## May 27–31
+
+_Week off from tutorials_
+
+## June 3–7
+
+- [Pandas Time Series Analysis 5: Period and PeriodIndex](https://www.youtube.com/watch?v=3l9YOS4y24Y&list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy&index=19&t=0s)
+
+- [Pandas Time Series Analysis 6: Timezone Handling](https://www.youtube.com/watch?v=9IW2GIJajLs&list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy&index=20&t=0s)
+
+- [Pandas Time Series Analysis 6 [sic]: Shifting and Lagging](https://www.youtube.com/watch?v=0lsmdNLNorY&list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy&index=21&t=0s)
+
+**June 6**: discussion
+
+## June 10–14
+
+- [Pandas Tutorial 14: Read Write Data From Database (read_sql, to_sql)](https://www.youtube.com/watch?v=M-4EpNdlSuY&list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy&index=22&t=0s)
+
+**June 13**: discussion 
+
