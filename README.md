@@ -64,7 +64,7 @@ If you want an introduction to Python as a programming language before diving in
 
 - [Pandas Time Series Analysis 4: to_datetime](https://www.youtube.com/watch?v=igWjq3jtLYI&list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy&index=18&t=0s)
 
-**May 23**:discussion
+**May 23**: discussion
 
 ## May 27–31
 
